@@ -1,3 +1,6 @@
+# This is the second part of the assignment. For the first one please visit: https://github.com/Bladdyy/Creating-programming-language-in-Java-Part-1
+
+
 ## W tym zadaniu należy zaimplementować nową wersję języka Macchiato, na którą będą się składały następujące nowe funkcjonalności języka, a także usprawnienia w jego ekosystemie:
 
 ## 1. Procedury
